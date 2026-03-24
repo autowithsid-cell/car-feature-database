@@ -1,11 +1,17 @@
-# Car Feature Database (India)
+# Car Feature Database India
 
-Structured dataset of car features across segments.
+A structured database of car features across segments.
+
+## Objective
+Simplify feature comparison for car buyers.
 
 ## Features Covered
-- Sunroof
-- ADAS
 - Safety
-- Infotainment
+- Comfort
+- Technology
 
-Status: Active
+## Use Case
+Quickly identify cars offering premium features like ADAS or ventilated seats.
+
+## Status
+Actively updated
