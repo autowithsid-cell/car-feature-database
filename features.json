@@ -1,0 +1,10 @@
+[
+  {
+    "car": "Hyundai Creta",
+    "features": ["Panoramic Sunroof", "ADAS", "Ventilated Seats"]
+  },
+  {
+    "car": "Kia Seltos",
+    "features": ["360 Camera", "ADAS", "Bose Sound"]
+  }
+]
